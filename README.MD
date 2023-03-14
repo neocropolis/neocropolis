@@ -1,8 +1,8 @@
 # Neocropolis
 
-**ROBLOX:** https://roblox.com/users/339443329/profile
-
-**DISCORD:** https://discord.com/users/610140494697332766
+## Socials
+- **ROBLOX:** https://roblox.com/users/339443329/profile
+- **DISCORD:** https://discord.com/users/610140494697332766
 
 ## Interests
 - Web Development 📚
